@@ -23,13 +23,13 @@ pip install scikit-learn tensorflow keras pandas numpy
 ```
 ## Usage
 
-1.Clone the repository:
+1. Clone the repository:
 git clone [https://github.com/pavank1301/spam-classifier.git](https://github.com/pavank1301/spam_classifier.git)
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 cd spam_classifier
 
-3.Launch the Jupyter Notebook:
+3. Launch the Jupyter Notebook:
 Open the Spam Classifier.ipynb notebook.
 
 Run the notebook cell by cell to see the code and results.
