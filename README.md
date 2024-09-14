@@ -21,7 +21,7 @@ You can install these dependencies using pip:
 ```bash
 pip install scikit-learn tensorflow keras pandas numpy
 ```
-#Usage
+## Usage
 
 1.Clone the repository:
 git clone [https://github.com/pavank1301/spam-classifier.git](https://github.com/pavank1301/spam_classifier.git)
